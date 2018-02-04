@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-void main1()
+//&(位“与”)，^(位“异或”)，|（位“或”），~（位“取反”）
+//移位运算符：<<(左移)，>>(右移)
+void main()
 {
 	unsigned char ch = 0;
 	printf("%d\n", sizeof(ch));
