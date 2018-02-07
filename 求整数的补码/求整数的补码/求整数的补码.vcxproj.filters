@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="补码.c">
+    <ClCompile Include="位运算输出浮点二进制.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
